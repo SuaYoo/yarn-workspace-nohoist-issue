@@ -88,11 +88,6 @@
     "winston": "^2.4.0",
     "yargs": "^11.0.0"
   },
-  "workspaces": {
-    "nohoist": [
-      "**"
-    ]
-  },
   "devDependencies": {
     "yarn-workspace-nohoist-issue-b": "1.0.0",
     "assets-webpack-plugin": "^3.5.1",
@@ -179,5 +174,10 @@
     "webpack-node-externals": "^1.6.0",
     "webpack-strip-block": "^0.2.0",
     "why-did-you-update": "^0.1.1"
+  },
+  "workspaces": {
+    "nohoist": [
+      "**"
+    ]
   }
 }
