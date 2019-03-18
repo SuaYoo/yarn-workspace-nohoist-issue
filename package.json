@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": ">=8 <9",
+    "yarn": "1.13.0"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
