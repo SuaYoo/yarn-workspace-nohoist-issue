@@ -6,7 +6,8 @@
   "private": true,
   "devDependencies": {
     "yarn-workspace-nohoist-issue-b": "1.0.0",
-    "css-loader": "^1.0.0"
+    "css-loader": "^1.0.0",
+    "webpack": "^4.0.0"
   },
   "workspaces": {
     "nohoist": [
