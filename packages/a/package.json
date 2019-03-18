@@ -89,7 +89,6 @@
     "yargs": "^11.0.0"
   },
   "devDependencies": {
-    "yarn-workspace-nohoist-issue-b": "1.0.0",
     "assets-webpack-plugin": "^3.5.1",
     "autoprefixer": "^8.1.0",
     "babel-cli": "^6.26.0",
