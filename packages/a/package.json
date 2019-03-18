@@ -95,10 +95,6 @@
   },
   "devDependencies": {
     "yarn-workspace-nohoist-issue-b": "1.0.0",
-    "yarn-workspace-nohoist-issue-c": "1.0.0",
-    "yarn-workspace-nohoist-issue-d": "1.0.0",
-    "yarn-workspace-nohoist-issue-e": "1.0.0",
-    "yarn-workspace-nohoist-issue-f": "1.0.0",
     "assets-webpack-plugin": "^3.5.1",
     "autoprefixer": "^8.1.0",
     "babel-cli": "^6.26.0",
