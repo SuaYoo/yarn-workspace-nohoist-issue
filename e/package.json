@@ -1,0 +1,11 @@
+{
+  "name": "yarn-workspace-nohoist-issue-e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
