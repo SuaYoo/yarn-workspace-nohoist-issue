@@ -6,11 +6,7 @@
   "private": true,
   "devDependencies": {
     "yarn-workspace-nohoist-issue-b": "1.0.0",
-    "css-loader": "^1.0.0",
-    "csv-loader": "^3.0.2",
-    "csvtojson": "^1.1.9",
-    "deep-extend": "^0.5.0",
-    "dotenv": "^6.2.0"
+    "css-loader": "^1.0.0"
   },
   "workspaces": {
     "nohoist": [
