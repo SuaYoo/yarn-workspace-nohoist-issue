@@ -5,8 +5,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "yarn-workspace-nohoist-issue-c": "1.0.0",
-    "yarn-workspace-nohoist-issue-d": "1.0.0",
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/react-fontawesome": "^0.0.20",
     "antd": "^3.2.3",
