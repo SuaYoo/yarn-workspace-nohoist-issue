@@ -4,21 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.8",
-    "@fortawesome/react-fontawesome": "^0.0.20",
-    "antd": "^3.2.3",
-    "lodash": "^4.17.5",
-    "moment": "^2.21.0",
-    "moment-js": "^1.1.15",
-    "prop-types": "^15.6.1",
-    "react": "^16.8.3",
-    "react-datetime": "^2.16.3",
-    "react-dom": "^16.8.3",
-    "react-redux": "^5.0.7",
-    "redux": "^4.0.0",
-    "redux-form": "^7.3.0"
-  },
   "devDependencies": {
     "babel-jest": "^21.0.0",
     "babel-loader": "^7.1.3",
