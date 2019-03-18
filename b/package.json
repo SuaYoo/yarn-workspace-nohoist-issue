@@ -1,0 +1,7 @@
+{
+  "name": "yarn-workspace-nohoist-issue-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
