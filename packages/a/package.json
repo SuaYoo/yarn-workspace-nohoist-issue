@@ -17,20 +17,7 @@
     "eslint": "^4.19.1",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-jest": "^21.15.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-react": "^7.7.0",
-    "extract-text-webpack-plugin": "^3.0.0-rc.1",
-    "file-loader": "^1.1.11",
-    "glob": "^7.1.2",
-    "glob-all": "^3.1.0",
-    "html-webpack-harddisk-plugin": "^0.2.0",
-    "html-webpack-plugin": "^3.2.0",
-    "identity-obj-proxy": "^3.0.0",
-    "ignore-loader": "^0.1.2",
-    "import-inspector": "^2.0.0",
-    "intl": "^1.2.5"
+    "eslint-plugin-jest": "^21.15.0"
   },
   "workspaces": {
     "nohoist": [
